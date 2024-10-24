@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\Upcasting_Task\Upcasting_Task\bin\Debug\net8.0\Upcasting_Task.exe
+C:\Users\pc\source\repos\Upcasting_Task\Upcasting_Task\bin\Debug\net8.0\Upcasting_Task.deps.json
+C:\Users\pc\source\repos\Upcasting_Task\Upcasting_Task\bin\Debug\net8.0\Upcasting_Task.runtimeconfig.json
+C:\Users\pc\source\repos\Upcasting_Task\Upcasting_Task\bin\Debug\net8.0\Upcasting_Task.dll
+C:\Users\pc\source\repos\Upcasting_Task\Upcasting_Task\bin\Debug\net8.0\Upcasting_Task.pdb
+C:\Users\pc\source\repos\Upcasting_Task\Upcasting_Task\obj\Debug\net8.0\Upcasting_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Upcasting_Task\Upcasting_Task\obj\Debug\net8.0\Upcasting_Task.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Upcasting_Task\Upcasting_Task\obj\Debug\net8.0\Upcasting_Task.AssemblyInfo.cs
+C:\Users\pc\source\repos\Upcasting_Task\Upcasting_Task\obj\Debug\net8.0\Upcasting_Task.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Upcasting_Task\Upcasting_Task\obj\Debug\net8.0\Upcasting_Task.dll
+C:\Users\pc\source\repos\Upcasting_Task\Upcasting_Task\obj\Debug\net8.0\refint\Upcasting_Task.dll
+C:\Users\pc\source\repos\Upcasting_Task\Upcasting_Task\obj\Debug\net8.0\Upcasting_Task.pdb
+C:\Users\pc\source\repos\Upcasting_Task\Upcasting_Task\obj\Debug\net8.0\Upcasting_Task.genruntimeconfig.cache
+C:\Users\pc\source\repos\Upcasting_Task\Upcasting_Task\obj\Debug\net8.0\ref\Upcasting_Task.dll

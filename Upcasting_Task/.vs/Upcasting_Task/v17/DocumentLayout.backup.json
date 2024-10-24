@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\Upcasting_Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEF4057-FE22-4A2E-B1A2-02EE797F9721}|Upcasting_Task\\Upcasting_Task.csproj|c:\\users\\pc\\source\\repos\\upcasting_task\\upcasting_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEF4057-FE22-4A2E-B1A2-02EE797F9721}|Upcasting_Task\\Upcasting_Task.csproj|solutionrelative:upcasting_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEF4057-FE22-4A2E-B1A2-02EE797F9721}|Upcasting_Task\\Upcasting_Task.csproj|c:\\users\\pc\\source\\repos\\upcasting_task\\upcasting_task\\models\\pineapple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEF4057-FE22-4A2E-B1A2-02EE797F9721}|Upcasting_Task\\Upcasting_Task.csproj|solutionrelative:upcasting_task\\models\\pineapple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEF4057-FE22-4A2E-B1A2-02EE797F9721}|Upcasting_Task\\Upcasting_Task.csproj|c:\\users\\pc\\source\\repos\\upcasting_task\\upcasting_task\\models\\apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEF4057-FE22-4A2E-B1A2-02EE797F9721}|Upcasting_Task\\Upcasting_Task.csproj|solutionrelative:upcasting_task\\models\\apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEF4057-FE22-4A2E-B1A2-02EE797F9721}|Upcasting_Task\\Upcasting_Task.csproj|c:\\users\\pc\\source\\repos\\upcasting_task\\upcasting_task\\models\\orange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEF4057-FE22-4A2E-B1A2-02EE797F9721}|Upcasting_Task\\Upcasting_Task.csproj|solutionrelative:upcasting_task\\models\\orange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEF4057-FE22-4A2E-B1A2-02EE797F9721}|Upcasting_Task\\Upcasting_Task.csproj|c:\\users\\pc\\source\\repos\\upcasting_task\\upcasting_task\\models\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEF4057-FE22-4A2E-B1A2-02EE797F9721}|Upcasting_Task\\Upcasting_Task.csproj|solutionrelative:upcasting_task\\models\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Orange.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Upcasting_Task\\Upcasting_Task\\Models\\Orange.cs",
+              "RelativeDocumentMoniker": "Upcasting_Task\\Models\\Orange.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Upcasting_Task\\Upcasting_Task\\Models\\Orange.cs",
+              "RelativeToolTip": "Upcasting_Task\\Models\\Orange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:54:43.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pineapple.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Upcasting_Task\\Upcasting_Task\\Models\\Pineapple.cs",
+              "RelativeDocumentMoniker": "Upcasting_Task\\Models\\Pineapple.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Upcasting_Task\\Upcasting_Task\\Models\\Pineapple.cs",
+              "RelativeToolTip": "Upcasting_Task\\Models\\Pineapple.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIBCwBMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:54:33.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Apple.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Upcasting_Task\\Upcasting_Task\\Models\\Apple.cs",
+              "RelativeDocumentMoniker": "Upcasting_Task\\Models\\Apple.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Upcasting_Task\\Upcasting_Task\\Models\\Apple.cs",
+              "RelativeToolTip": "Upcasting_Task\\Models\\Apple.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:54:14.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fruit.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Upcasting_Task\\Upcasting_Task\\Models\\Fruit.cs",
+              "RelativeDocumentMoniker": "Upcasting_Task\\Models\\Fruit.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Upcasting_Task\\Upcasting_Task\\Models\\Fruit.cs",
+              "RelativeToolTip": "Upcasting_Task\\Models\\Fruit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:52:13.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Upcasting_Task\\Upcasting_Task\\Program.cs",
+              "RelativeDocumentMoniker": "Upcasting_Task\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Upcasting_Task\\Upcasting_Task\\Program.cs",
+              "RelativeToolTip": "Upcasting_Task\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA2wBwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:51:18.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
